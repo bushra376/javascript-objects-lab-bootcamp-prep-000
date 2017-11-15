@@ -1,0 +1,2 @@
+//CODE
+var recipes = {};
